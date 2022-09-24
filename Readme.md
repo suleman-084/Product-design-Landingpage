@@ -30,4 +30,4 @@
 
 - How to use CSS psuedoselectors like `::after` and `::first-child`
 
-## [Live-link](https://landingpage-of-product-design.netlify.app/) of the project
+## [Live-link](https://product-design14.netlify.app/) of the project
